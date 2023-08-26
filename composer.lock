@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "31d4cccc9b65079b73a944e1cf2f906b",
+    "content-hash": "7ae158d0c51a3228f2b9ccdda6d9aba8",
     "packages": [
         {
             "name": "brick/math",
@@ -5348,15 +5348,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "3.13.1",
+            "version": "2.17.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/3.13.1"
+                "reference": "tags/2.17.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.3.13.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.2.17.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
