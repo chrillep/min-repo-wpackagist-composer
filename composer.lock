@@ -5420,15 +5420,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentythree",
-            "version": "1.2",
+            "version": "1.6",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentythree/",
-                "reference": "1.2"
+                "reference": "1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.2.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -6109,6 +6109,6 @@
     "platform": {
         "php": ">=8.0"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
 }
