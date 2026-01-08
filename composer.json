@@ -20,7 +20,7 @@
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentythree": "^1.0",
     "wpackagist-plugin/query-monitor": "^2.17",
-    "roots/acorn": "^3.1",
+    "roots/acorn": "^5.0",
     "wpackagist-plugin/wordpress-seo": "20.1",
     "wpackagist-plugin/contact-form-7": "5.7",
     "wpackagist-plugin/redirection": "5.2"
